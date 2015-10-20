@@ -10,6 +10,9 @@ Whilst this is a great exercise for practising, please spend a maximum of ONE HO
 
 You may not complete it all, that is fine. It is better to complete an area to a high quality than to complete all areas at a low quality.
 
+To apply, simple download this repository, complete the task, commit and push to a new empty repository and email us the URL.
+Please do not fork or add a pull request.
+
 If accepted to the next stage, we will use some parts of this exercise as a reference.
 
 Criteria
